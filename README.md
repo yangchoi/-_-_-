@@ -60,6 +60,12 @@ alt + D
 git annotate
 ctrl + Q + ctrl + A
 
+검색 중 이전 결과로 돌아가기 
+shift + cmd + G
+
+검색 중 다음 결과로 가기 
+cmd + G
+
 ## 맥 단축키 
 
 ### 사용 중인 툴 
