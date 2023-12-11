@@ -101,6 +101,12 @@ ctrl + command + 방향키
 창 반쪽으로 만들어 한 쪽에 몰아넣기 
 option + cmd + 방향키
 
+maximize
+ctrl + opt + backspace
+
+fullscreen 
+cmd + ctrl + F
+
 사전
 ctrl + shift + 2
 
