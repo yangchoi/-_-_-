@@ -169,3 +169,33 @@ space
 
 명령어 제일 끝으로 이동
 ctrl + e
+
+현재 url 복사 
+cmd + l
+
+창 나누기 
+cmd + D
+
+창 이동 
+cmd + opt + 방향키
+
+copy mode
+cmd + ctrl + c 
+
+enter
+copy start
+
+shift-arraw
+select 
+
+stop-selecting
+ctrl + space
+
+exit copy mode
+esc
+
+scroll up 
+cmd + up
+
+scroll down
+cmd + down
