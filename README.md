@@ -1,3 +1,4 @@
+
 ## Pycharm 
 import pop up
 cmd + .
@@ -84,8 +85,12 @@ fn + O, P
 뒤로 가기 
 cmd + [
 
+탭 간격 이동
+ctrl + option + 방향키
+
 오른쪽 창 옮기기 
 ctrl + shift + 탭
+
 왼쪽 창 옮기기 
 ctrl + tab
 
@@ -110,6 +115,65 @@ cmd + ctrl + F
 사전
 ctrl + shift + 2
 
+version control 
+ctrl + v
+
+action 
+cmd + shift + p
+
+undo 
+u
+
+redo
+ctrl + r
+
+insert mode
+i
+
+visual mode
+v
+
+visual mode - 복사
+y (yank)
+
+visual mode - 붙여넣기
+p
+
+지우기
+d
+
+한줄 복사
+yy
+
+한줄 삭제
+dd
+
+앞 쪽으로 특정 문자로 향하고 싶을 때 
+f + 원하는 문자 
+
+뒤 쪽으로 특정 문자로 향하고 싶을 때 
+F + 원하는 문자 
+
+tab 밑으로 
+ctrl + d
+
+tab 위로
+ctrl + u
+
+한줄씩 밑으로 
+ctrl + e
+
+한줄씩 위로
+ctrl + y
+
+줄 끝으로 가기 
+$
+
+줄 가장 처음으로
+0
+
+첫글자로
+^
 
 ## chrome & chrome vim
 
@@ -205,3 +269,16 @@ cmd + up
 
 scroll down
 cmd + down
+
+duplicate tab
+
+shift + cmd + D
+
+duplicate tab in the new tab
+
+opt + d
+
+####  github
+
+preview 
+cmd + shift + p
